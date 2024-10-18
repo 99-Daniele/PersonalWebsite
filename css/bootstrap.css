@@ -583,6 +583,10 @@ progress {
   content: "\2014\00A0";
 }
 
+.logo {
+  max-width: 60px;
+}
+
 .img-fluid {
   max-width: 100%;
   height: auto;
