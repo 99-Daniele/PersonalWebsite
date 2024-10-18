@@ -1,0 +1,160 @@
+{
+    "en": {
+        "navbarSupportedContent": {
+            "about": "About me",
+            "education": "Education",
+            "skills": "Skills",
+            "expertise": "Expertise",
+            "projects": "Projects",
+            "interests": "Interests",
+            "contacts": "Contacts"
+        },
+        "content":{
+            "hello": "Hello!",
+            "name": "I’m Daniele Cicala",
+            "description": "Computer Science Engineer",
+            "cv": "Download CV",
+            "contacts": "Get in Touch"
+        },
+        "about":{
+            "description":"I recently graduated with an MSc in Computer Science and Engineering, with a solid background in data analysis, web programming, and software engineering. I specialize in extracting valuable information from large amounts of data to support strategic decision-making and solve complex problems. I have experience in developing web applications and designing software architectures. Currently seeking a job opportunity, I am motivated to apply my knowledge and grow professionally in a stimulating environment, even in different locations.",
+            "age": "Age:",
+            "phone": "Phone:",
+            "address": "Address:",
+            "addressDescription": "Via Ulisse Salis, 12 Milan 20161",
+            "nationality": "Nationality",
+            "italian": "Italian"
+        },
+        "education":{
+            "title": "Education",
+            "education-1":"Master of Science Degree in Computer Science and Engineering",
+            "education-1-description":"<p>I'm graduated in Computer Science and Engineering at Politecnico di Milano.</p> <p>My master's thesis, titled 'Analysis of the Trials of the Civil Court of Milan' focused on data engineering and data analysis.</p> <p>All courses were taught in English, and many involved teamwork. I developed a strong interest in Data Science, Software Engineering, Web Development, and Computer Programming.</p>",
+            "education-2": "Bachelor's Degree in Computer Engineering",
+            "education-2-description": "<p>I also earned my bachelor degree at Politecnico di Milano in Computer Engineering.</p> <p>My thesis was composed of three small projects related to different courses: Software Engineering, Logical Networks and Algorithms and Principles of Computer Science.</p> <p>The courses, all taught in Italian, provided me an engineering background in Math, Physics, and Electronics, along with specialized topics like Databases, Software Engineering, and Computer Architecture.</p>",
+            "education-3": "Diploma in Scientific High School",
+            "education-3-description": "<p>My pre-academic path was at Liceo Scientifico delle Scienze Applicate Luigi Galvani in Milan.</p> <p>This high school offered an informatics course instead of Latin, which gave me a solid initial background in IT.</p>"
+        },
+        "skills": {
+            "title": "Skills"
+        },
+        "expertise":{
+            "title": "Expertise",
+            "data": "Data Analyst",
+            "web": "Web Development",
+            "software": "Software Engineering",
+            "computer": "Computer Programming"
+        },
+        "projects":{
+            "title": "Projects",
+            "project-1": "Master Thesis Project",
+            "project-1-date": "Sep 2023 - Jul 2024",
+            "project-1-description": "Data Analysis of trials of the Civil Court of Milan to identify the causes of high duration of processes. An application is created from scratch to transform and visualize data, enriched by machine learning.",
+            "project-2-tools": "Java / UML / Teamwork",
+            "project-2": "Software Engineering Project",
+            "project-2-date": "Mar 2021 - Jul 2021",
+            "project-2-description": "Group project to create an application simulating a board game, using Model View Controller pattern and Client-Server architecture. Moreover enriched by validation and integration tests",
+            "project-3": "Web Development Project",
+            "project-3-date": "Mar 2021 - Jul 2021",
+            "project-3-description": "Development of a web application of an e-commerce website creating a Tomcat server and a MySQL database. The web-site is developed in two versions: an HTML pure version and a RIA version with Javascript."
+        },
+        "interests":{
+            "title": "Interests",
+            "interest-1": "Travels",
+            "interest-2": "Movies",
+            "interest-3": "Computer Programming",
+            "interest-4": "Photography"
+        },
+        "footer":{
+            "description": "Computer Science Engineer",
+            "rights": "&copy; Daniele Cicala. All rights reserved.",
+            "icon-1": "Data Analysis icon created by monkik - ",
+            "icon-2": "Web Development icon created by Freepik - ",
+            "icon-3": "Software Engineering icon created by Witdhawaty - ",
+            "icon-4": "Computer Programming icons created by Freepik - ",
+            "icon-5": "University icon created by Freepik - ",
+            "icon-6": "High Scool icon created by Freepik - ",
+            "icon-7": "Travels icon created by monkik - ",
+            "icon-8": "Movies icon created by HJ Studio - ",
+            "icon-9": "Photography icon created by Sympnoiaicon - "
+        }
+    },
+    "it": {
+        "navbarSupportedContent": {
+            "about": "Chi sono",
+            "education": "Istruzione",
+            "skills": "Conoscenze",
+            "expertise": "Competenze",
+            "projects": "Progetti",
+            "interests": "Interessi",
+            "contacts": "Contatti"
+        },
+        "content":{
+            "hello": "Ciao!",
+            "name": "Sono Daniele Cicala",
+            "description": "Ingegnere Informatico",
+            "cv": "Scarica CV",
+            "contacts": "Contattami"
+        },
+        "about":{
+            "description":"Recente laureato magistrale in Computer Science and Engineering con un background nell'analisi dei dati, programmazione web e ingegneria del software. Specializzato nell'estrazione di informazioni da grandi dataset per supportare il processo decisionale e risolvere problemi complessi. Ho esperienza nello sviluppo di applicazioni web e architetture software. Attualmente alla ricerca di un'opportunità lavorativa, sono motivato ad applicare le mie conoscenze e crescere professionalmente in un ambiente stimolante, anche in diverse località.",
+            "age": "Età:",
+            "phone": "Telefono:",
+            "address": "Indirizzo:",
+            "addressDescription": "Via Ulisse Salis, 12 Milano 20161",
+            "nationality": "Nazionalità",
+            "italian": "Italiana"
+        },
+        "education":{
+            "title": "Istruzione",
+            "education-1":"Laurea Magistrale in Computer Science and Engineering",
+            "education-1-description":"<p>Sono laureato in Computer Science and Engineering al Politecnico di Milano.</p> <p>La mia tesi magistrale, intitolata 'Analysis of the Trials of the Civil Court of Milan' si è focalizzata su data engineering e data analysis.</p> <p>Tutti i corsi sono stati tenuti in lingua Inglese, e molti di essi prevedevano lavoro di gruppo. Ho sviluppato un forte interesse in Data Science, Ingegneria del Software, Sviluppo Web, and Programmazione Informatica.</p>",
+            "education-2": "Laurea Triennale in Ingegneria Informatica",
+            "education-2-description": "<p>Ho anche ottenuto la mia laurea triennale al Politecnico di Milano in Ingegneria Informatica.</p> <p>La mia tesi era composta da tre piccoli progetti relativi a corsi differenti: Ingegneria del Software, Reti Logiche e Algoritmi e Principi dell'Informatica.</p> <p>I corsi, tutti insegnati in Italiano,mi ha garantino un background ingegneristico in Matematica, Fisica ed Elettronica, al contempo con corsi specializzati quali Basi Dati, Ingegneria del Software e Architettura dei Calcolatori.</p>",
+            "education-3": "Diploma Liceo Scientifico",
+            "education-3-description": "<p>Il mio percorso pre-accademico si è svolto al Liceo Scientifico delle Scienze Applicate Luigi Galvani a Milano.</p> <p>Questo istituto offriva dei corsi di informatica al posto del Latino, fornendomi un iniziale background informatico.</p>"
+        },
+        "skills": {
+            "title": "Conoscenze"
+        },
+        "expertise":{
+            "title": "Competenze",
+            "data": "Analisi Dati",
+            "web": "Sviluppo Web",
+            "software": "Ingegneria del Software",
+            "computer": "Programmazione Informatica"
+        },
+        "projects":{
+            "title": "Progetti",
+            "project-1": "Progetto di Tesi Magistrale",
+            "project-1-date": "Set 2023 - Lug 2024",
+            "project-1-description": "Analisi Dati dei procedimenti del Tribunale Civile di Milano peridentificare le cause della loro lunga durata. E’ stata creata un’applicazione dazero per trasformare e visualizzare i dati, arricchita da machine learning.",
+            "project-2-tools": "Java / UML / Lavoro di Squadra",
+            "project-2": "Progetto di Ingegneria del Software",
+            "project-2-date": "Mar 2021 - Lug 2021",
+            "project-2-description": "Progetto di gruppo per creare un’applicazione che simula un giocoda tavolo, usando il Model View Controller pattern e l’architettura Client-Server. Inoltre arricchito da test di validazione e integrazione.",
+            "project-3": "Progetto Sviluppo Web",
+            "project-3-date": "Mar 2021 - Lug 2021",
+            "project-3-description": "Sviluppo di un’applicazione web di un sito di e-commerce creando un server Tomcat e un database MySQL. Il sito web è stato sviluppato in due versioni: una versoine HTML puro e una versione RIA con Javascript."
+        },
+        "interests":{
+            "title": "Interessi",
+            "interest-1": "Viaggi",
+            "interest-2": "Cinema",
+            "interest-3": "Programmazione Informatica",
+            "interest-4": "Fotografia"
+        },
+        "footer":{
+            "description": "Ingegnere Informatico",
+            "rights": "&copy; Daniele Cicala. Tutti i diritti riservati.",
+            "icon-1": "Analisi Dati icona creata da monkik - ",
+            "icon-2": "Sviluppo Web icona creata da Freepik - ",
+            "icon-3": "Ingegneria del Software icona creata da Witdhawaty - ",
+            "icon-4": "Programmazione Informatica icona creata da Freepik - ",
+            "icon-5": "Università icona creata da Freepik - ",
+            "icon-6": "Scuola Superiore icona creata da Freepik - ",
+            "icon-7": "Viaggi icona creata da monkik - ",
+            "icon-8": "Cinema icona creata da Studio - ",
+            "icon-9": "Fotografia icona creata da Sympnoiaicon - "
+        }
+    }
+}
