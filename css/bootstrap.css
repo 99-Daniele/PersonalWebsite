@@ -7220,6 +7220,12 @@ fieldset:disabled .btn {
   margin-bottom: auto !important;
 }
 
+.buttons{
+  white-space: nowrap;
+  display: inline-block; 
+  width: 14em;
+}
+
 .mt-0 {
   margin-top: 0 !important;
 }
