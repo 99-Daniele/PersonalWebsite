@@ -1,6 +1,7 @@
 # Daniele Cicala's Personal Website
 
 This project implements my personal website.
+
 It utilized a template sourced from TemplateFlip.
 
 ## License
