@@ -1,5 +1,4 @@
-function calAge() {
-    const ageRef = document.getElementById('age');
+document.addEventListener('DOMContentLoaded', () => {
   
     const birthDate = new Date('1999-12-29');
     const today = new Date();
@@ -13,7 +12,8 @@ function calAge() {
     if (currentMonth < birthMonth || (currentMonth === birthMonth && currentDay < birthDay)) {
       age--;
     }
-  
+    console.log(age)
+    const ageRef = document.getElementById('age');
     ageRef.textContent = age;
-  }
+  });
   
